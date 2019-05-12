@@ -18,9 +18,7 @@ npm install mutilcascadervue
 ##使用：Import
 
 ```
-import Vue from 'vue'
 import mutilCascaderVue from 'mutilcascadervue'
-Vue.use(mutilCascaderVue)
 ```
 
 ## 简单用法：usage
