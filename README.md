@@ -12,13 +12,13 @@ Multi-cascader  based on vue, can be used for multi-selection in cities and indu
 
 ## 导入方法：Project setup
 ```
-npm install mutilcascadervue
+npm install mutil-cascader-vue
 ```
 
 ##使用：Import
 
 ```
-import mutilCascaderVue from 'mutilcascadervue'
+import mutilCascaderVue from 'mutil-cascader-vue'
 ```
 
 ## 简单用法：usage
